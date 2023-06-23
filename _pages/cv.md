@@ -11,21 +11,9 @@ redirect_from:
 
 Education
 ======
-* [Universidad Autonoma de Madrid, Spain](https://www.uam.es/uam/inicio)
-  * Master's degree, Image Processing and Computer Vision 
-  * 2022 - 2024
-
-* [Pázmány Péter Catholic University, Hungary](https://ppke.hu/en)
-  * Master's degree, Computer Science and Engineering Specialization in Image Processing and Computer Vision 
-  * 2022 - 2024
-
-* [Corporate Finance Institute® (CFI)](https://corporatefinanceinstitute.com/)
-  * International Certification Program, ALX Financial Analyst programme 
-  * 2022 - 2023
-
-* [Bahir Dar Institute of Technology](https://bit.bdu.edu.et/), [Bahir Dar University, Ethiopia](https://www.bdu.edu.et/)
-  * Master of Science - MS, Communication System Engineering · 
-  * 2020 - 2022
+* [Friedrich Schiller Universtate](https://www.uni-jena.de/en)
+  * Master's degree, Photonics 
+  * 2021 - 2023
 
 * [Bahir Dar Institute of Technology](https://bit.bdu.edu.et/), [Bahir Dar University, Ethiopia](https://www.bdu.edu.et/)
   * Bachelor of Science - BS, Electrical, Electronics and Communications Engineering 
@@ -38,64 +26,25 @@ Education
       <img src="/images/ub.png" alt="UBx" style="display: inline-block; width: 100px;">
  </div>
 
-Awards
-======
-* [Best 50 African Project of the Year 2019](https://www.undp.org/ethiopia/news/undp-supported-2019-africa-innovation-week#:~:text=The%202019%20African%20Innovation%20Week,28th%20%E2%80%93%20November%202nd.)
-  * Organizer: Africa Innovation Week 2019
-  * Date: 11/2019
-
-* Best Bahir Dar University Project of The Year 2018
-  * Organizer: [Bahir Dar University](https://www.bdu.edu.et/), Ethiopia
-  * Date: 06/2018
-  
-<div style="text-align: center;">
-  <img src="/images/bit.jpg" alt="BDU" style="display: inline-block; width: 500px; height: 50px;">
-</div>
-
 Work experience
 ======
 * [Ethiopian Electric Utility](http://www.ethiopianelectricutility.gov.et/): Junior Electrical Engineer 
-  * 3.5 years of Experience 
+  * 2.5 years of Experience 
   * Bahir  Dar, Ethiopia
 
-* [American Spaces Ethiopia](https://et.usembassy.gov/education-culture/american-spaces/): Technology Support Grantee
-  * 1.5 Years of Experience 
-  * Bahir  Dar, Ethiopia
-  
-* G&D Graphics: Founder and CEO
-  * From 2020 - Present
-  * Bahir Dar, Ethiopia 
-
-* Paramount Student: Ambassador
-  * 6 months of experience 
-  * Remotely 
-
-* [Amhara Media Corporation](https://www.amharaweb.com/english/): Radio and TV Broadcast Engineer Intern 
-  * 4 months 
-  * Bahir Dar, Ethiopia
-
-* [Ethio Telecommunication](https://www.ethiotelecom.et/): Operations and Maintenance Engineer Intern
+* [Ethio Telecommunication](https://www.ethiotelecom.et/):National Network operation Center
    * 4 months
-   * Bahir Dar, Ethiopia
+   * Addis Ababa, Ethiopia
 
   
 Skills
 ======
 * Programming Language
-   * C++, Python, MATLAB, SQL, R, VHDL, MERN Stack, Typescript
- * Computer Hardware and Network troubleshooting Skill
-   * Cisco Certified Network Associate, CCNA I, Huawei networking device
+   * C++(Basic), Python, MATLAB
 * Microsoft Oﬀice Product
-   * MS Word, MS Excel, MS PowerPoint, MS Publisher, MS Teams, Office365
-* Simulator Sofwares Skill
-   * Packet tracer, VLSI Design, OptiSystem Software, Proetus, Eagle
-* Graphics Design Skill
-   * Adobe Photoshop, After Eﬀects, Video Editing Softwares
-* Operating System
-   * Microsoft Window, Ubuntu, Linux, CentOS, Kali Linux  
-* Leadership and Management Skill
-   * Young Africa Leaders Initiative- YALI Member 
-
+   * MS Word, MS Excel, MS PowerPoint, MS Teams, Office365 
+* Software
+*   OpticStudio (ZEMAX), VirtualLab Fusion
 <div style="text-align: center;">
   <img src="/images/c++.png" alt="C++" style="display: inline-block; width: 50px;">
   <img src="/images/python.png" alt="Python" style="display: inline-block; width: 50px;">
