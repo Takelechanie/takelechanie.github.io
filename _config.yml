@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "About Getnet"
+title                    : "About Takele"
 title_separator          : "-"
-name                     : &name "Getnet Demil"
-description              : &description "Getnet Demil"
-url                      : https://getnetdemil.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Takele Chanie"
+description              : &description "Takele Chanie"
+url                      : https://takelechanie.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "getnetdemil/getnetdemil.github.io"
+repository               : "takelechanie/takelechanie.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -58,15 +58,15 @@ yandex_site_verification :
 # Social Sharing
 
 linkedin:
-  username               : "getnetdemil"
+  username               : "takele-chanie-332083229/"
 medium:
-  username               : "@getnetdemil"
+  username               : "takele-chanie-332083229/"
 github:
-  username               : "getnetdemil"
+  username               : "takelechanie"
 twitter:
-  username               : "GetnetDemil"
+  username               : "takele-chanie-332083229/"
 facebook:
-  username               : "GetnetGrayHat"
+  username               : "takele-chanie-332083229/t"
   app_id                 :
   publisher              :
 og_image                 :  # Open Graph/Twitter default site image
@@ -87,16 +87,16 @@ analytics:
 
 # Site Author
 author:
-  name             : "GETNET DEMIL"
+  name             : "TAKELE CHANIE"
   avatar           : "profile.png"
-  bio              : "Image Processing and Computer Vision MSC Student || Data Science || Communication Engineer || CCNA || Security Enthusiast || American Space Ethiopia Tech Guy || Energy Management Engineer || MERN Stack Dev-Learner"
-  location         : "Madrid, Spain"
+  bio              : "Photonics"
+  location         : "JENA, GERMANY "
   employer         :
-  medium           : "@getnetdemil"
+  medium           : "takele-chanie-332083229/"
  # googlescholar    : "will add soon"
-  email            : "getnetd24@gmail.com"
-  researchgate     :  "Jenberia-Getnet-Demil"
-  linkedin         : "getnetdemil"
+  email            : "takelechanie@gmail.com"
+  researchgate     :  "takele-chanie-332083229/"
+  linkedin         : "takele-chanie-332083229/"
   
   uri              :
   bitbucket        :
