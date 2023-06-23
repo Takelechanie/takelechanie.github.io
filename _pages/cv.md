@@ -21,10 +21,8 @@ Education
 
  <div style="text-align: center;">
       <img src="/images/bdu3.jpg" alt="BDU" style="display: inline-block; width: 200px;">
-      <img src="/images/ppke.png" alt="PPCU" style="display: inline-block; width: 100px;">
-      <img src="/images/uam.png" alt="UAM" style="display: inline-block; width: 100px;">
-      <img src="/images/ub.png" alt="UBx" style="display: inline-block; width: 100px;">
- </div>
+      <img src="/images/fsu.png" alt="PPCU" style="display: inline-block; width: 100px;">
+       </div>
 
 Work experience
 ======
@@ -44,24 +42,21 @@ Skills
 * Microsoft Oﬀice Product
    * MS Word, MS Excel, MS PowerPoint, MS Teams, Office365 
 * Software
-*   OpticStudio (ZEMAX), VirtualLab Fusion
+   * OpticStudio (ZEMAX), VirtualLab Fusion
 <div style="text-align: center;">
   <img src="/images/c++.png" alt="C++" style="display: inline-block; width: 50px;">
   <img src="/images/python.png" alt="Python" style="display: inline-block; width: 50px;">
   <img src="/images/matlab.png" alt="Mathlab" style="display: inline-block; width: 50px;">
-  <img src="/images/keras.jpeg" alt="Keras" style="display: inline-block; width: 50px;">
-  <img src="/images/open.png" alt="OpenCV" style="display: inline-block; width: 50px;">
-  <img src="/images/tensor.png" alt="TensorFlow" style="display: inline-block; width: 50px;">
-  <img src="/images/pcl.png" alt="PCL" style="display: inline-block; width: 50px;">
-  <img src="/images/scikit.png" alt="Scikit" style="display: inline-block; width: 50px;">
-  <img src="/images/pytorch.png" alt="Pytorch" style="display: inline-block; width: 50px;">
+  <img src="/images/zemax.jpeg" alt="zemax" style="display: inline-block; width: 50px;">
+  <img src="/images/vlab.png" alt="vlab" style="display: inline-block; width: 50px;">
+    <img src="/images/latex.png" alt="latex" style="display: inline-block; width: 50px;">
 </div>
 
 
 Projects
 ======
-* Measurements on recognition of object to grasp with a robot arm on a hybrid system
-  * 2022 – Present, [Pázmány Péter Catholic University](https://ppke.hu/en), [Universidad Autonoma de Madrid](https://www.uam.es/uam/inicio) and  [University of Bordeaux](https://www.u-bordeaux.fr/en)
+* A comparative performance analysis on denoising algorithms on test images
+  * 2022 – 2023, [Friedrich Schiller Universtate](https://www.uni-jena.de/en)
   
 * Performance Analysis of 60-120 GHz mmWave Ranges Radio Over Fiber with Multi Input Multi Output Architecture
   * 2022 – Present, [Bahir Dar University](https://www.bdu.edu.et/)
