@@ -47,8 +47,8 @@ Skills
   <img src="/images/c++.png" alt="C++" style="display: inline-block; width: 50px;">
   <img src="/images/python.png" alt="Python" style="display: inline-block; width: 50px;">
   <img src="/images/matlab.png" alt="Mathlab" style="display: inline-block; width: 50px;">
-  <img src="/images/zemax.jpeg" alt="zemax" style="display: inline-block; width: 70px;">
-  <img src="/images/vlab.png" alt="vlab" style="display: inline-block; width: 80px;">
+  <img src="/images/zemax.jpeg" alt="zemax" style="display: inline-block; width: 90px;">
+  <img src="/images/vlab.png" alt="vlab" style="display: inline-block; width: 100px;">
     <img src="/images/latex.png" alt="latex" style="display: inline-block; width: 60px;">
 </div>
 
