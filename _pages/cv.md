@@ -62,7 +62,7 @@ Researches and Projects
 ======
 * To model, evaluate, and compare two optical systems for the creation of Bessel beams
    * Internship: 2022-2023, [Institute of Fraunhofer](https://www.iof.fraunhofer.de/)
-* simulation and design of optical setup for Bessel beam in autofocus sensor
+* Simulation and design of optical setup for Bessel beam in autofocus sensor
    * Research Lab Work: 2022-2023, [Institute of Fraunhofer](https://www.iof.fraunhofer.de/)
 * A comparative performance analysis on denoising algorithms on test images
   * 2022 – 2023, [Friedrich Schiller Universtate](https://www.uni-jena.de/en)
@@ -73,7 +73,7 @@ Researches and Projects
   
 
 <div style="text-align: center;">
-  <img src="/images/IOF.png" alt="IOF" style="display: inline-block; width: 100px;">
+  <img src="/images/IOF.png" alt="IOF" style="display: inline-block; width: 200px;">
   <img src="/images/fsu.png" alt="FSU" style="display: inline-block; width: 100px;">
   <img src="/images/bdu3.jpg" alt="BDU" style="display: inline-block; width: 200px;">
 </div>
