@@ -73,7 +73,7 @@ Researches and Projects
   
 
 <div style="text-align: center;">
-  <img src="/images/IOF.jpg" alt="IOF" style="display: inline-block; width: 200px;">
+  <img src="/images/IOF.jpg" alt="IOF" style="display: inline-block; width: 100px;">
   <img src="/images/fsu.png" alt="FSU" style="display: inline-block; width: 100px;">
   <img src="/images/bdu3.jpg" alt="BDU" style="display: inline-block; width: 200px;">
 </div>
