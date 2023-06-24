@@ -73,9 +73,8 @@ Researches and Projects
   
 
 <div style="text-align: center;">
-  <img src="/images/ppke.png" alt="PPCU" style="display: inline-block; width: 100px;">
-  <img src="/images/uam.png" alt="UAM" style="display: inline-block; width: 100px;">
-  <img src="/images/ub.png" alt="UBx" style="display: inline-block; width: 100px;">
+  <img src="/images/IOF.png" alt="IOF" style="display: inline-block; width: 100px;">
+  <img src="/images/fsu.png" alt="FSU" style="display: inline-block; width: 100px;">
   <img src="/images/bdu3.jpg" alt="BDU" style="display: inline-block; width: 200px;">
 </div>
 
