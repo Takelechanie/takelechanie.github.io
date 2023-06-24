@@ -26,6 +26,11 @@ Education
 
 Work experience
 ======
+
+* [Institute of Fraunhofer](https://www.iof.fraunhofer.de/): Student Assistant
+  * 8.5 months
+  * Jena, Germany
+    
 * [Ethiopian Electric Utility](http://www.ethiopianelectricutility.gov.et/): Junior Electrical Engineer 
   * 2.5 years of Experience 
   * Bahir  Dar, Ethiopia
@@ -53,68 +58,25 @@ Skills
 </div>
 
 
-Projects
+Researches and Projects
 ======
+* To model, evaluate, and compare two optical systems for the creation of Bessel beams
+   * Internship: 2022-2023, [Institute of Fraunhofer](https://www.iof.fraunhofer.de/)
+* simulation and design of optical setup for Bessel beam in autofocus sensor
+   * Research Lab Work: 2022-2023, [Institute of Fraunhofer](https://www.iof.fraunhofer.de/)
 * A comparative performance analysis on denoising algorithms on test images
   * 2022 – 2023, [Friedrich Schiller Universtate](https://www.uni-jena.de/en)
-  
-* Performance Analysis of 60-120 GHz mmWave Ranges Radio Over Fiber with Multi Input Multi Output Architecture
-  * 2022 – Present, [Bahir Dar University](https://www.bdu.edu.et/)
 
-* Design and Implementation of Smart Microscope For Automatic Protozoan Disease Detection and Diagnosis Using Python Programing Language
+* Design and Implementation of Remote Patient Monitoring System.
   * 2017 – 2018, [Bahir Dar University](https://www.bdu.edu.et/)
 
-* Design of Smart Microscope for Amoeba Disease Detection Using MATLAB Programing Language
-  * 2016 – 2017, [Bahir Dar University](https://www.bdu.edu.et/)
-
-* VLSI Design for Electrical Equipmentʼs
-  * 2015 – 2016, [Bahir Dar University](https://www.bdu.edu.et/)
-
-* Computer Network Design for Company with Many Branch Oﬀice
-  * 2015 – 2016, [Bahir Dar University](https://www.bdu.edu.et/)
-
-* Design of PCB (Printed Circuit Board) For Mobile Charger Using Eagle SW
-  * 2014 – 2015, [Bahir Dar University](https://www.bdu.edu.et/)
-
-* Bahir Dar University Student Online Grading System Using C++ Language
-  * 2014 – 2015, [Bahir Dar University](https://www.bdu.edu.et/)
+  
 
 <div style="text-align: center;">
   <img src="/images/ppke.png" alt="PPCU" style="display: inline-block; width: 100px;">
   <img src="/images/uam.png" alt="UAM" style="display: inline-block; width: 100px;">
   <img src="/images/ub.png" alt="UBx" style="display: inline-block; width: 100px;">
   <img src="/images/bdu3.jpg" alt="BDU" style="display: inline-block; width: 200px;">
-</div>
-
-Certificates
-======
-* Cisco Certified Network Associate Routing and Switching Introduction
-  * CCNA I
-* Cisco Certified Network Associate Routing and Switching Essential
-  * CCNA II
-
-* American Space Badges
-  *  Introduction to American Spaces
-  *  Resources for American Spaces
-  *  Introduction to Strategic Planning
-  *  Programming in American Spaces
-  *  Managing American Spaces
-  *  American Spaces Digital Engagement
-  *  Makerspace in American Space 
-
-* Young Africa Leadership Initiative
-  * YALI Entrepreneurship and Business Course Certificates
-
-<div style="text-align: center;">
- 
-  <img src="/images/ase (1).png" alt="BDU" style="display: inline-block; width: 80px;">
-  <img src="/images/ase (2).png" alt="PPCU" style="display: inline-block; width: 80px;">
-  <img src="/images/ase (3).png" alt="UAM" style="display: inline-block; width: 80px;">
-  <img src="/images/ase (4).png" alt="UBx" style="display: inline-block; width: 80px;">
-  <img src="/images/ase (5).png" alt="BDU" style="display: inline-block; width: 80px;">
-  <img src="/images/ase (6).png" alt="PPCU" style="display: inline-block; width: 80px;">
-  <img src="/images/ase (7).png" alt="UAM" style="display: inline-block; width: 80px;">
- 
 </div>
 
 
