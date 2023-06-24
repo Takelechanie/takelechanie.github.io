@@ -79,25 +79,13 @@ Researches and Projects
 </div>
 
 
-Organizational and Voluntery Work
+Organizations
 ======
 * [Ethiopian Electric Utility](http://www.ethiopianelectricutility.gov.et/): Junior Electrical Engineer 
   * Bahir  Dar, Ethiopia
 
-* [American Spaces Ethiopia](https://et.usembassy.gov/education-culture/american-spaces/): Technology Support Grantee
-  * Bahir  Dar, Ethiopia
-
-* Bahir Dar University Electrical and Computer Engineering Students Association
-  * President, 2017 – 2018, Bahir  Dar, Ethiopia
-
-* Bahir Dar University Electrical and Computer Engineering Students Association
-  * Project Supervisor, 2016 – 2017, Bahir  Dar, Ethiopia
-
 * Ethiopian Tele Communication Internship Train Engineer
   * 02/2017 – 07/2017,  Bahir  Dar, Ethiopia
-
-* Amahara Mass Media Agency Internship Train Engineer
-  * 02/2017 – 04/2017,  Bahir  Dar, Ethiopia
 
 <div style="text-align: center;">
   <img src="/images/bit.jpg" alt="BDU" style="display: inline-block; width: 500px; height: 50px;">
