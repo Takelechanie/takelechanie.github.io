@@ -48,12 +48,6 @@ Skills, Tools, and Libraries
    * MS Word, MS Excel, MS PowerPoint, MS Teams, Office365 
 * Software
    * OpticStudio (ZEMAX), VirtualLab Fusion
-<div style="text-align: center;">
-  <img src="/images/matlab.png" alt="Mathlab" style="display: inline-block; width: 50px;">
-  <img src="/images/zemax.png" alt="zemax" style="display: inline-block; width: 70px;">
-  <img src="/images/vlab.png" alt="vlab" style="display: inline-block; width: 150px;">
-    <img src="/images/latex.png" alt="latex" style="display: inline-block; width: 60px;">
-</div>
 
 * Some of the Programming language, tools and libraries 
 <div style="text-align: center;">
