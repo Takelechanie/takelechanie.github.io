@@ -45,7 +45,7 @@ Skills, Tools, and Libraries
 * Programming Language
    * C++(Basic), Python, MATLAB
 Enterprise Resource Planning Software
-  * SAP ERP (3.5 years of experience in a full role)
+  * SAP ERP (2.5 years of experience in a full role)
 * Microsoft Oﬀice Product
    * MS Word, MS Excel, MS PowerPoint, MS Teams, Office365 
 * Software
@@ -99,7 +99,7 @@ Enterprise Resource Planning Software
     <div style="display: inline-block; margin-right: 10px;">
     <img src="/images/latex.png" alt="Latex" style="width: 50px;">
     <br>
-    <div style="background-color: #34495e; padding: 5px; border-radius: 5px; margin-top: 10px;">
+    <div style="background-color: #27ae60; padding: 5px; border-radius: 5px; margin-top: 10px;">
       <span style="color: white;">Latex</span>
     </div>
   </div>
