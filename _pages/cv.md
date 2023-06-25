@@ -40,7 +40,7 @@ Work experience
    * Addis Ababa, Ethiopia
 
   
-Skills
+Skills, Tools, and Libraries
 ======
 * Programming Language
    * C++(Basic), Python, MATLAB
@@ -49,15 +49,71 @@ Skills
 * Software
    * OpticStudio (ZEMAX), VirtualLab Fusion
 <div style="text-align: center;">
-  <img src="/images/c++.png" alt="C++" style="display: inline-block; width: 50px;">
-  <img src="/images/python.png" alt="Python" style="display: inline-block; width: 50px;">
   <img src="/images/matlab.png" alt="Mathlab" style="display: inline-block; width: 50px;">
   <img src="/images/zemax.png" alt="zemax" style="display: inline-block; width: 70px;">
   <img src="/images/vlab.png" alt="vlab" style="display: inline-block; width: 150px;">
     <img src="/images/latex.png" alt="latex" style="display: inline-block; width: 60px;">
 </div>
 
-
+* Some of the Programming language, tools and libraries 
+<div style="text-align: center;">
+  <div style="display: inline-block; margin-right: 10px;">
+    <img src="/images/c++.png" alt="C++" style="width: 30px;">
+    <br>
+    <div style="background-color: #27ae60; padding: 5px; border-radius: 5px; margin-top: 10px;">
+      <span style="color: white;">C++</span>
+    </div>
+  </div>
+  <div style="display: inline-block; margin-right: 10px;">
+    <img src="/images/python.png" alt="Python" style="width: 30px;">
+    <br>
+    <div style="background-color: #e74c3c; padding: 5px; border-radius: 5px; margin-top: 10px;">
+      <span style="color: white;">Python</span>
+    </div>
+  </div>
+  <div style="display: inline-block; margin-right: 10px;">
+    <img src="/images/matlab.png" alt="MATLAB" style="width: 30px;">
+    <br>
+    <div style="background-color: #1abc9c; padding: 5px; border-radius: 5px; margin-top: 10px;">
+      <span style="color: white;">MATLAB</span>
+    </div>
+  </div>
+  <div style="display: inline-block; margin-right: 10px;">
+    <img src="/images/ZEMAX.png" alt="ZEMAX" style="width: 30px;">
+    <br>
+    <div style="background-color: #f39c12; padding: 5px; border-radius: 5px; margin-top: 10px;">
+      <span style="color: white;">ZEMAX</span>
+    </div>
+  </div>
+  <div style="display: inline-block; margin-right: 10px;">
+    <img src="/images/Vlab.png" alt="VirtualLab Fusion" style="width: 30px;">
+    <br>
+    <div style="background-color: #8e44ad; padding: 5px; border-radius: 5px; margin-top: 10px;">
+      <span style="color: white;">VirtualLab Fusion</span>
+    </div>
+  </div>
+  <div style="display: inline-block; margin-right: 10px;">
+    <img src="/images/latex.png" alt="TensorFlow" style="width: 30px;">
+    <br>
+    <div style="background-color: #34495e; padding: 5px; border-radius: 5px; margin-top: 10px;">
+      <span style="color: white;">Latex</span>
+    </div>
+  </div>
+  <div style="display: inline-block; margin-right: 10px;">
+    <img src="/images/sap.png" alt="SAP ERP" style="width: 45px;">
+    <br>
+    <div style="background-color: #34495e; padding: 5px; border-radius: 5px; margin-top: 10px;">
+      <span style="color: white;">SAP ERP</span>
+    </div>
+  </div>
+  <div style="display: inline-block; margin-right: 10px;">
+    <img src="/images/latex.png" alt="Latex" style="width: 50px;">
+    <br>
+    <div style="background-color: #f39c12; padding: 5px; border-radius: 5px; margin-top: 10px;">
+      <span style="color: white;">Latex</span>
+    </div>
+  </div>
+</div>
 Researches and Projects
 ======
 * To model, evaluate, and compare two optical systems for the creation of Bessel beams
