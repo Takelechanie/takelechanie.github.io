@@ -73,14 +73,14 @@ Skills, Tools, and Libraries
     </div>
   </div>
   <div style="display: inline-block; margin-right: 10px;">
-    <img src="/images/ZEMAX.png" alt="ZEMAX" style="width: 30px;">
+    <img src="/images/zemax.png" alt="ZEMAX" style="width: 30px;">
     <br>
     <div style="background-color: #f39c12; padding: 5px; border-radius: 5px; margin-top: 10px;">
       <span style="color: white;">ZEMAX</span>
     </div>
   </div>
   <div style="display: inline-block; margin-right: 10px;">
-    <img src="/images/Vlab.png" alt="VirtualLab Fusion" style="width: 30px;">
+    <img src="/images/vlab.png" alt="VirtualLab Fusion" style="width: 30px;">
     <br>
     <div style="background-color: #8e44ad; padding: 5px; border-radius: 5px; margin-top: 10px;">
       <span style="color: white;">VirtualLab Fusion</span>
