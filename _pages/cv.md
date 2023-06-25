@@ -87,27 +87,19 @@ Skills, Tools, and Libraries
     </div>
   </div>
   <div style="display: inline-block; margin-right: 10px;">
-    <img src="/images/latex.png" alt="TensorFlow" style="width: 30px;">
+    <img src="/images/latex.png" alt="Latex" style="width: 30px;">
     <br>
     <div style="background-color: #34495e; padding: 5px; border-radius: 5px; margin-top: 10px;">
       <span style="color: white;">Latex</span>
     </div>
   </div>
   <div style="display: inline-block; margin-right: 10px;">
-    <img src="/images/sap.png" alt="SAP ERP" style="width: 45px;">
+    <img src="/images/sap.png" alt="SAP CRM" style="width: 45px;">
     <br>
     <div style="background-color: #34495e; padding: 5px; border-radius: 5px; margin-top: 10px;">
-      <span style="color: white;">SAP ERP</span>
+      <span style="color: white;">SAP CRM</span>
     </div>
   </div>
-  <div style="display: inline-block; margin-right: 10px;">
-    <img src="/images/latex.png" alt="Latex" style="width: 50px;">
-    <br>
-    <div style="background-color: #f39c12; padding: 5px; border-radius: 5px; margin-top: 10px;">
-      <span style="color: white;">Latex</span>
-    </div>
-  </div>
-</div>
 Researches and Projects
 ======
 * To model, evaluate, and compare two optical systems for the creation of Bessel beams
