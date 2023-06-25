@@ -20,7 +20,7 @@ In terms of my work experience, I have held several roles in the past, including
 I possess various programming languages, Microsoft Office products, and Design software. I have experience working with programming languages such as C++, Python, and MATLAB, as well as Design software such as OpticStudio (ZEMAX) and VirtualLab Fusion. I am skilled in Microsoft Office products like Word, Excel, and PowerPoint. <a href="https://takelechanie.github.io/cv/">Details</a>
 
 <h2>Projects</h2>
-I have worked on an academic project, Design and implementation of wireless Patient Monitoring System. <a href="https://takelechanie.github.io/cv/">Details</a>
+I have worked on an academic project, Design and implementation of Remote Patient Monitoring System. <a href="https://takelechanie.github.io/cv/">Details</a>
 
 Thank you for visiting my page, and feel free to contact me for any further information or inquiries.<br><br>
   Phone: +491744967755<br>
