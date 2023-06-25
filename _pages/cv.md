@@ -103,6 +103,7 @@ Enterprise Resource Planning Software
       <span style="color: white;">Latex</span>
     </div>
   </div>
+</div>
 Researches and Projects
 ======
 * To model, evaluate, and compare two optical systems for the creation of Bessel beams
@@ -156,7 +157,7 @@ Studied in, and worked in
     </div>
   </div>
    <div style="display: inline-block; margin-right: 10px;">
-    <img src="/images/IOF.jpg" alt="Fraunhofer" style="width: 120px;">
+    <img src="/images/IOF.jpg" alt="Fraunhofer" style="width: 60px;">
     <br>
     <div style="background-color: #ffffff; padding: 5px; border-radius: 5px;">
       <span style="color: #16537e;">Fraunhofer Iof</span>
