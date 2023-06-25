@@ -156,7 +156,7 @@ Studied in, and worked in
     </div>
   </div>
    <div style="display: inline-block; margin-right: 10px;">
-    <img src="/images/IOF.jpg" alt="Fraunhofer" style="width: 80px;">
+    <img src="/images/IOF.jpg" alt="Fraunhofer" style="width: 100px;">
     <br>
     <div style="background-color: #ffffff; padding: 5px; border-radius: 5px;">
       <span style="color: #16537e;">Fraunhofer Iof</span>
