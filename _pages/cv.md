@@ -155,6 +155,13 @@ Studied in, and worked in
       <span style="color: #16537e;">Ethiopia</span>
     </div>
   </div>
+   <div style="display: inline-block; margin-right: 10px;">
+    <img src="/images/IOF.jpg" alt="Fraunhofer" style="width: 50px;">
+    <br>
+    <div style="background-color: #ffffff; padding: 5px; border-radius: 5px;">
+      <span style="color: #16537e;">Fraunhofer Iof</span>
+    </div>
+  </div>
   <div style="display: inline-block; margin-right: 10px;">
     <img src="/images/eeu.png" alt="C++" style="width: 50px;">
     <br>
