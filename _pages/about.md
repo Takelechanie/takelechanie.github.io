@@ -20,14 +20,7 @@ In terms of my work experience, I have held several roles in the past, including
 I possess various programming languages, Microsoft Office products, and Design software. I have experience working with programming languages such as C++, Python, and MATLAB, as well as Design software such as OpticStudio (ZEMAX) and VirtualLab Fusion. I am skilled in Microsoft Office products like Word, Excel, and PowerPoint. <a href="https://takelechanie.github.io/cv/">Details</a>
 
 <h2>Projects</h2>
-I have worked on a number of academic and personal projects, including Measurements on recognition of object to grasp with a robot arm on a hybrid system, Performance Analysis of 60-120 GHz mmWave Ranges Radio Over Fiber with Multi Input Multi Output Architecture
-, the Design and Implementation of a Smart Microscope for Automatic Protozoan Disease Detection and Diagnosis Using Python Programming Language, the Design of a Smart Microscope for Amoeba Disease Detection Using MATLAB Programming Language, and VLSI Design for Electrical Equipment's. I have also worked on the Computer Network Design for a Company with Many Branch Offices and the Design of PCB (Printed Circuit Board) for a Mobile Charger Using Eagle Software. Additionally, I worked on the Bahir Dar University Student Online Grading System Using C++ Language. <a href="https://takelechanie.github.io/cv/">Details</a>
-
-<h2>Certifications</h2>
-I have earned several certifications, including the CCNA I and II certifications, American Space Badges, and the YALI Entrepreneurship and Business Course Certificates. <a href="https://takelechanie.github.io/cv/">Details</a>
-
-<h2>Voluntary Work</h2>
-I have also been involved in various organizational and voluntary work, including volunteering at the Ethiopian Red Cross Society and organizing a fundraiser for a local charity in Bahir Dar, Ethiopia. <a href="https://takelechanie.github.io/cv/">Details</a> <br><br>
+I have worked on an academic project, Design and implementation of wireless Patient Monitoring System. <a href="https://takelechanie.github.io/cv/">Details</a>
 
 Thank you for visiting my page, and feel free to contact me for any further information or inquiries.<br><br>
   Phone: +491744967755<br>
