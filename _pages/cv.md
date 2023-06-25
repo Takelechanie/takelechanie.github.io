@@ -44,6 +44,8 @@ Skills, Tools, and Libraries
 ======
 * Programming Language
    * C++(Basic), Python, MATLAB
+Enterprise Resource Planning Software
+  * SAP ERP (3.5 years of experience in a full role)
 * Microsoft Oﬀice Product
    * MS Word, MS Excel, MS PowerPoint, MS Teams, Office365 
 * Software
@@ -86,18 +88,19 @@ Skills, Tools, and Libraries
       <span style="color: white;">VirtualLab Fusion</span>
     </div>
   </div>
+
   <div style="display: inline-block; margin-right: 10px;">
+    <img src="/images/sap.png" alt="SAP ERP" style="width: 45px;">
+    <br>
+    <div style="background-color: #34495e; padding: 5px; border-radius: 5px; margin-top: 10px;">
+      <span style="color: white;">SAP ERP</span>
+    </div>
+  </div>
+    <div style="display: inline-block; margin-right: 10px;">
     <img src="/images/latex.png" alt="Latex" style="width: 50px;">
     <br>
     <div style="background-color: #34495e; padding: 5px; border-radius: 5px; margin-top: 10px;">
       <span style="color: white;">Latex</span>
-    </div>
-  </div>
-  <div style="display: inline-block; margin-right: 10px;">
-    <img src="/images/sap.png" alt="SAP CRM" style="width: 45px;">
-    <br>
-    <div style="background-color: #34495e; padding: 5px; border-radius: 5px; margin-top: 10px;">
-      <span style="color: white;">SAP CRM</span>
     </div>
   </div>
 Researches and Projects
@@ -133,5 +136,38 @@ Organizations
   <img src="/images/bit.jpg" alt="BDU" style="display: inline-block; width: 500px; height: 50px;">
 </div>
  
+Studied in, and worked in
+======
 
+<div style="text-align: center;">
+  <div style="display: inline-block; margin-right: 10px;">
+    <img src="/images/german.webp" alt="FSU" style="width: 60px;">
+    <br>
+    <div style="background-color: #ffffff; padding: 5px; border-radius: 5px;">
+      <span style="color: #16537e;">Germany</span>
+    </div>
+  </div>
+  
+  <div style="display: inline-block; margin-right: 10px;">
+    <img src="/images/eth.webp" alt="BDU" style="width: 60px;">
+    <br>
+    <div style="background-color: #ffffff; padding: 5px; border-radius: 5px;">
+      <span style="color: #16537e;">Ethiopia</span>
+    </div>
+  </div>
+  <div style="display: inline-block; margin-right: 10px;">
+    <img src="/images/eeu.png" alt="C++" style="width: 50px;">
+    <br>
+    <div style="background-color: #ffffff; padding: 5px; border-radius: 5px;">
+      <span style="color: #16537e;">EEU</span>
+    </div>
+  </div>
+  <div style="display: inline-block; margin-right: 10px;">
+    <img src="/images/etc.jpg" alt="Tele" style="width: 60px;">
+    <br>
+    <div style="background-color: #ffffff; padding: 5px; border-radius: 5px;">
+      <span style="color: #16537e;">Telecom</span>
+    </div>
+  </div>
+</div>
 
