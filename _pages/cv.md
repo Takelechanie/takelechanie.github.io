@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* [Friedrich Schiller Universtate](https://www.uni-jena.de/en)
+* [Friedrich Schiller Universtäte](https://www.uni-jena.de/en)
   * Master's degree, Photonics 
   * 2021 - 2023
 
@@ -44,14 +44,18 @@ Skills, Tools, and Libraries
 ======
 * Programming Language
    * C++(Basic), Python, MATLAB
-Enterprise Resource Planning Software
+* Enterprise Resource Planning Software
   * SAP ERP (2.5 years of experience in a full role)
+* Language Skill
+  * Amharic-አማርኛ (Native)
+  * English- Professional
+  * German- Deutsch (A2)
 * Microsoft Oﬀice Product
    * MS Word, MS Excel, MS PowerPoint, MS Teams, Office365 
 * Software
    * OpticStudio (ZEMAX), VirtualLab Fusion
 
-* Some of the Programming language, tools and libraries 
+* Some of the Programming languages, tools, and libraries 
 <div style="text-align: center;">
   <div style="display: inline-block; margin-right: 10px;">
     <img src="/images/c++.png" alt="C++" style="width: 30px;">
