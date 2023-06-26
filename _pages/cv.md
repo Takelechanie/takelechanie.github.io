@@ -55,7 +55,7 @@ Skills, Tools, and Libraries
 * Software
    * OpticStudio (ZEMAX), VirtualLab Fusion
 
-* Some of the Programming languages, tools, and libraries 
+* Some of the Programming languages, and tools 
 <div style="text-align: center;">
   <div style="display: inline-block; margin-right: 10px;">
     <img src="/images/c++.png" alt="C++" style="width: 30px;">
