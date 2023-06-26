@@ -35,7 +35,7 @@ Work experience
   * 2.5 years of Experience 
   * Bahir  Dar, Ethiopia
 
-* [Ethio Telecommunication](https://www.ethiotelecom.et/):National Network operation Center
+* [Ethio Telecommunication](https://www.ethiotelecom.et/):National Network Operation Center
    * 4 months
    * Addis Ababa, Ethiopia
 
@@ -124,7 +124,7 @@ Researches and Projects
   
 
 <div style="text-align: center;">
-  <img src="/images/IOF.jpg" alt="IOF" style="display: inline-block; width: 100px;">
+  <img src="/images/IOF.jpg" alt="IOF" style="display: inline-block; width: 120px;">
   <img src="/images/fsu.png" alt="FSU" style="display: inline-block; width: 100px;">
   <img src="/images/bdu3.jpg" alt="BDU" style="display: inline-block; width: 200px;">
 </div>
@@ -162,7 +162,7 @@ Studied, and worked in
     </div>
   </div>
    <div style="display: inline-block; margin-right: 10px;">
-    <img src="/images/IOF.jpg" alt="Fraunhofer" style="width: 105px;">
+    <img src="/images/IOF.jpg" alt="Fraunhofer" style="width: 115px;">
     <br>
     <div style="background-color: #ffffff; padding: 5px; border-radius: 5px;">
       <span style="color: #16537e;">Fraunhofer Iof</span>
