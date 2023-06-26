@@ -104,6 +104,7 @@ Enterprise Resource Planning Software
     </div>
   </div>
 </div>
+
 Researches and Projects
 ======
 * To model, evaluate, and compare two optical systems for the creation of Bessel beams
