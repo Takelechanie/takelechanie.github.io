@@ -115,10 +115,10 @@ Researches and Projects
    * Internship: 2022-2023, [Institute of Fraunhofer](https://www.iof.fraunhofer.de/)
 * Simulation and design of optical setup for Bessel beam in autofocus sensor
    * Research Lab Work: 2022-2023, [Institute of Fraunhofer](https://www.iof.fraunhofer.de/)
-* A comparative performance analysis on denoising algorithms on test images
+* A comparative performance analysis on denoising algorithms on test images using Python Programing Language
   * 2022 – 2023, [Friedrich Schiller Universtate](https://www.uni-jena.de/en)
 
-* Design and Implementation of Remote Patient Monitoring System.
+* Design and Implementation of Remote Patient Monitoring System using MATLAB Programing Language.
   * 2017 – 2018, [Bahir Dar University](https://www.bdu.edu.et/)
 
   
@@ -142,7 +142,7 @@ Organizations
   <img src="/images/bit.jpg" alt="BDU" style="display: inline-block; width: 500px; height: 50px;">
 </div>
  
-Studied in, and worked in
+Studied, and worked in
 ======
 
 <div style="text-align: center;">
