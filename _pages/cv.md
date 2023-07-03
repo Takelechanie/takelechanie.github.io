@@ -115,6 +115,10 @@ Researches and Projects
    * Internship: 2022-2023, [Institute of Fraunhofer](https://www.iof.fraunhofer.de/)
 * Simulation and design of optical setup for Bessel beam in autofocus sensor
    * Research Lab Work: 2022-2023, [Institute of Fraunhofer](https://www.iof.fraunhofer.de/)
+   * Supervisors for internship and Research Lab Work:
+                                   Britta Holz, [britta.holz@iof.fraunhofer.de]
+                                   Dr. Christian Vetter, [christian.vetter@iof.fraunhofer.de]
+                                   Prof. Stefan Nolte, [stefan.nolte@uni-jena.de]
 * A comparative performance analysis on denoising algorithms on test images using Python Programing Language
   * 2022 – 2023, [Friedrich Schiller Universtate](https://www.uni-jena.de/en)
 
