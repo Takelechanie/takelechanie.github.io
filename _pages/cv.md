@@ -40,7 +40,7 @@ Work experience
    * Addis Ababa, Ethiopia
 
   
-Skills, Tools, and Libraries
+Skills, Programming Languages, and Software
 ======
 * Programming Language
    * C++(Basic), Python, MATLAB
@@ -55,7 +55,7 @@ Skills, Tools, and Libraries
 * Software
    * OpticStudio (ZEMAX), VirtualLab Fusion
 
-* Some of the Programming languages, and tools 
+* Some of the Programming languages, Software, and tools 
 <div style="text-align: center;">
   <div style="display: inline-block; margin-right: 10px;">
     <img src="/images/c++.png" alt="C++" style="width: 30px;">
