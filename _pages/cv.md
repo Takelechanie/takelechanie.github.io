@@ -28,7 +28,7 @@ Work experience
 ======
 
 * [Institute of Fraunhofer](https://www.iof.fraunhofer.de/): Student Assistant
-  * 8.5 months
+  * 1.3 years
   * Jena, Germany
     
 * [Ethiopian Electric Utility](http://www.ethiopianelectricutility.gov.et/): Junior Electrical Engineer 
@@ -43,7 +43,7 @@ Work experience
 Skills, Programming Languages, and Software
 ======
 * Programming Language
-   * C++(Basic), Python, MATLAB
+   * C++(Basic), Python, MATLAB, Julia, ZPL macro
 * Enterprise Resource Planning Software
   * SAP ERP (2.5 years of experience in a full role)
 * Language Skill
@@ -54,7 +54,8 @@ Skills, Programming Languages, and Software
    * MS Word, MS Excel, MS PowerPoint, MS Teams, Office365 
 * Software
    * OpticStudio (ZEMAX), VirtualLab Fusion
-
+* Tools
+   * VS code
 * Some of the Programming languages, Software, and tools 
 <div style="text-align: center;">
   <div style="display: inline-block; margin-right: 10px;">
@@ -76,6 +77,13 @@ Skills, Programming Languages, and Software
     <br>
     <div style="background-color: #1abc9c; padding: 5px; border-radius: 5px; margin-top: 10px;">
       <span style="color: white;">MATLAB</span>
+    </div>
+  </div>
+  <div style="display: inline-block; margin-right: 10px;">
+    <img src="/images/VS code.png" alt="VS code" style="width: 30px;">
+    <br>
+    <div style="background-color: #1abc9c; padding: 5px; border-radius: 5px; margin-top: 10px;">
+      <span style="color: white;">VS code</span>
     </div>
   </div>
   <div style="display: inline-block; margin-right: 10px;">
