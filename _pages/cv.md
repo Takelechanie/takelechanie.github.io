@@ -28,7 +28,7 @@ Work experience
 ======
 
 * [Institute of Fraunhofer](https://www.iof.fraunhofer.de/): Student Assistant
-  * 1.3 years
+  * 1.7 years
   * Jena, Germany
     
 * [Ethiopian Electric Utility](http://www.ethiopianelectricutility.gov.et/): Junior Electrical Engineer 
@@ -80,7 +80,7 @@ Skills, Programming Languages, and Software
     </div>
   </div>
   <div style="display: inline-block; margin-right: 10px;">
-    <img src="/images/VS code.png" alt="VS code" style="width: 30px;">
+    <img src="/images/VS code.jpg" alt="VS code" style="width: 30px;">
     <br>
     <div style="background-color: #1abc9c; padding: 5px; border-radius: 5px; margin-top: 10px;">
       <span style="color: white;">VS code</span>
