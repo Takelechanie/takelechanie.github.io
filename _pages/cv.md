@@ -129,7 +129,11 @@ Researches and Projects
                                    Prof. Stefan Nolte, [stefan.nolte@uni-jena.de]
 * A comparative performance analysis on denoising algorithms on test images using Python Programing Language
   * 2022 – 2023, [Friedrich Schiller Universtate](https://www.uni-jena.de/en)
-
+* Point Spread Function Engineering for Extended Depth of Field Imaging
+  * Masters Thesis: 2023-2024, [Institute of Fraunhofer](https://www.iof.fraunhofer.de/)
+  * Supervisors:
+                Dr. Christian Vetter, [christian.vetter@iof.fraunhofer.de]
+                Prof.Dr. Rainer Heintzmann, [rainer.heintzmann@uni-jena.de]
 * Design and Implementation of Remote Patient Monitoring System using MATLAB Programing Language.
   * 2017 – 2018, [Bahir Dar University](https://www.bdu.edu.et/)
 
