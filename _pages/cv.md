@@ -28,7 +28,7 @@ Work experience
 ======
 
 * [Institute of Fraunhofer](https://www.iof.fraunhofer.de/): Student Assistant
-  * 1.7 years
+  * 1.6 years
   * Jena, Germany
     
 * [Ethiopian Electric Utility](http://www.ethiopianelectricutility.gov.et/): Junior Electrical Engineer 
