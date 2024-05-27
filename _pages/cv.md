@@ -13,7 +13,7 @@ Education
 ======
 * [Friedrich Schiller Universtäte](https://www.uni-jena.de/en)
   * Master's degree, Photonics 
-  * 2021 - 2023
+  * 2021 - 2024
 
 * [Bahir Dar Institute of Technology](https://bit.bdu.edu.et/), [Bahir Dar University, Ethiopia](https://www.bdu.edu.et/)
   * Bachelor of Science - BS, Electrical, Electronics and Communications Engineering 
