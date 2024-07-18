@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 <div style="text-align: justify">
-Hello and welcome to my page! My name is  <a href="https://www.linkedin.com/in/takele-chanie-332083229/">Takele Chanie</a>, and I am currently pursuing my master's degree in Photonics at Friedrich Schiller Universtäte (Germany).
+Hello and welcome to my page! My name is  <a href="https://www.linkedin.com/in/takele-chanie-332083229/">Takele Chanie</a>, and  I recently graduated with an MSc in photonics from Friedrich Schiller University (Germany).
 
 <h2>Education</h2>
 Prior to this, I completed a Bachelor of Science in Electrical, Electronics, and Communications Engineering from Bahir Dar Institute of Technology, Bahir Dar University (Ethiopia). <a href="https://takelechanie.github.io/cv/">Details</a>
